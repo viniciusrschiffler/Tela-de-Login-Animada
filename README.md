@@ -1,7 +1,7 @@
 <h1 align="center">Tela de Login Animada</h1>
 
 <p align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./ImgToReadMe/img3.png" width="300px">
+    <img alt="Imagem da Tela de Login" title="Imagem da Tela de Login" src="./ImgToReadMe/img3.png" width="300px">
 </p>
 
 ## 📖 Sobre
@@ -21,17 +21,17 @@ Tela de login com animações. O código original foi desenvolvido pela **DarkCo
 
 - ### Bordas ficam vermelhas quando os Inputs estiverem vazios
 <h1 align="center">
-    <img src="ImgToReadMe/img2.png">
+    <img alt="Imagem da Tela de Login com as bordas vermelhas" title="Imagem da Tela de Login com as bordas vermelhas" src="ImgToReadMe/img2.png">
 </h1>
 
 - ### Largura dos Inputs aumentam e bordas ficam verdes quando estão clicados
 <h1 align="center">
-    <img src="ImgToReadMe/img1.png">
+    <img alt="Imagem da Tela de Login com as bordas verdes e largura aumentada" title="Imagem da Tela de Login com as bordas verdes e largura aumentada" src="ImgToReadMe/img1.png">
 </h1>
 
 - ### Bordas ficam verdes quando o Input está preenchido
 <h1 align="center">
-    <img src="ImgToReadMe/img4.png">
+    <img alt="Imagem da Tela de Login com as bordas verdes com inputs preenchidos" title="Imagem da Tela de Login com as bordas verdes com inputs preenchidos" src="ImgToReadMe/img4.png">
 </h1>
 
 Desenvolvido 💚 por Vinicius Rocha Schiffler.
