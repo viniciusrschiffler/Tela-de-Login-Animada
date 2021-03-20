@@ -1,7 +1,7 @@
 <h1 align="center">Tela de Login Animada</h1>
 
 <p>
-    <img src="./ImgToReadMe/img3.png">
+    <img src="./ImgToReadMe/img3.png" width="300px">
 </p>
 
 ## 📖 Sobre
