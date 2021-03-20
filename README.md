@@ -1,8 +1,8 @@
 <h1 align="center">Tela de Login Animada</h1>
 
-<h1 align="center">
-    <img src="ImgToReadMe/img3.png">
-</h1>
+<p>
+    <img src="./ImgToReadMe/img3.png">
+</p>
 
 ## 📖 Sobre
 Tela de login com animações. O código original foi desenvolvido pela **DarkCode**, apenas acrescentei algumas funcionalidades.
