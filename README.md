@@ -20,19 +20,19 @@ Tela de login com animações. O código original foi desenvolvido pela **DarkCo
 ## 🖋 Funcionalidades
 
 - ### Bordas ficam vermelhas quando os Inputs estiverem vazios
-<h1 align="center">
+<p align="center">
     <img alt="Imagem da Tela de Login com as bordas vermelhas" title="Imagem da Tela de Login com as bordas vermelhas" src="ImgToReadMe/img2.png">
-</h1>
+</p>
 
 - ### Largura dos Inputs aumentam e bordas ficam verdes quando estão clicados
-<h1 align="center">
+<p align="center">
     <img alt="Imagem da Tela de Login com as bordas verdes e largura aumentada" title="Imagem da Tela de Login com as bordas verdes e largura aumentada" src="ImgToReadMe/img1.png">
-</h1>
+</p>
 
 - ### Bordas ficam verdes quando o Input está preenchido
-<h1 align="center">
+<p align="center">
     <img alt="Imagem da Tela de Login com as bordas verdes com inputs preenchidos" title="Imagem da Tela de Login com as bordas verdes com inputs preenchidos" src="ImgToReadMe/img4.png">
-</h1>
+</p>
 
 Desenvolvido 💚 por Vinicius Rocha Schiffler.
 
