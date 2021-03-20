@@ -1,7 +1,7 @@
 <h1 align="center">Tela de Login Animada</h1>
 
 <p align="center">
-    <img src="./ImgToReadMe/img3.png" width="300px">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./ImgToReadMe/img3.png" width="300px">
 </p>
 
 ## 📖 Sobre
